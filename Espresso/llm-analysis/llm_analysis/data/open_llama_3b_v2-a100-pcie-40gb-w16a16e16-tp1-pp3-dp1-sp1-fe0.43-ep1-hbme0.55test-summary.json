@@ -1,0 +1,12 @@
+{
+    "weight_memory_embedding": 204800000.0,
+    "weight_memory_layer": 245772800.0,
+    "optimizer_state_memory_per_layer": 1474636800.0,
+    "gradient_memory_per_layer": 491545600.0,
+    "activation_memory_per_layer": 143360000.0,
+    "activation_memory_embedding_output_per_layer": 2867200000.0,
+    "activation_memory_layernorm_per_layer": 0,
+    "latency_fwd_per_layer": 0.04469577725148801,
+    "latency_fwd_input_embedding": 0.0002394621455714703,
+    "latency_fwd_output_embedding_loss": 0.03419439475253429
+}

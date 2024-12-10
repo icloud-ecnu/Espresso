@@ -1,0 +1,8 @@
+{
+    "name": "ViT_8867315324251648607",
+    "num_layers": 66,
+    "n_head": 16,
+    "hidden_dim": 2048,
+    "vocab_size": 1000,
+    "max_seq_len": 8192
+}

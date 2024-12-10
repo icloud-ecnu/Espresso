@@ -1,0 +1,11 @@
+{
+    "name": "4090-pcie-24gb",
+    "mem_per_GPU_in_GB": 24,
+    "hbm_bandwidth_in_GB_per_sec": 1008,
+    "intra_node_bandwidth_in_GB_per_sec": 32,
+    "intra_node_min_message_latency": 8e-06,
+    "peak_fp16_TFLOPS": 330.4,
+    "peak_i8_TFLOPS": 660.6,
+    "peak_i4_TFLOPS": 1321.2,
+    "inter_node_bandwidth_in_GB_per_sec": 1
+}

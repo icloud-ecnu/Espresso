@@ -1,0 +1,11 @@
+{
+    "name": "t4-pcie-16gb",
+    "mem_per_GPU_in_GB": 16,
+    "hbm_bandwidth_in_GB_per_sec": 320,
+    "intra_node_bandwidth_in_GB_per_sec": 16,
+    "intra_node_min_message_latency": 8e-06,
+    "peak_fp16_TFLOPS": 65,
+    "peak_i8_TFLOPS": 130,
+    "peak_i4_TFLOPS": 260,
+    "inter_node_bandwidth_in_GB_per_sec": 10
+}

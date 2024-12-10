@@ -1,0 +1,1 @@
+rank = 2   Max memory allocated on GPU: 17.28 GB

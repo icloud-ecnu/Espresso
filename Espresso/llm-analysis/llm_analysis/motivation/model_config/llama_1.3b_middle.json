@@ -1,0 +1,14 @@
+{
+    "model_name":"llama_1.3b_middle",
+    "gradient_accumulation_steps":4,
+    "seq_len":2000,
+    "model_layer":40,
+    "global_batch_size":32,
+    "dp_size":1,
+    "tp_size":1,
+    "num_layers": 40,
+    "n_head": 16,
+    "hidden_dim": 2048,
+    "vocab_size": 32000,
+    "max_seq_len": 4096
+}

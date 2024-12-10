@@ -1,0 +1,14 @@
+{
+    "model_name":"open_llama_3b_v2",
+    "gradient_accumulation_steps":4,
+    "seq_len":2000,
+    "model_layer":26,
+    "global_batch_size":16,
+    "dp_size":1,
+    "tp_size":1,
+    "num_layers": 26,
+    "n_head": 32,
+    "hidden_dim": 3200,
+    "vocab_size": 32000,
+    "max_seq_len": 2048
+}

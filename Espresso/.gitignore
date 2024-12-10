@@ -1,0 +1,4 @@
+# 忽略特定文件
+alpaca_evol_instruct_70k.json
+alpaca.json
+*.pyc

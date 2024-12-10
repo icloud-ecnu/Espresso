@@ -1,0 +1,9 @@
+{
+    "name": "llama_1.3b_large",
+    "num_layers": 48,
+    "n_head": 16,
+    "hidden_dim": 2048,
+    "vocab_size": 32000,
+    "max_seq_len": 4096,
+    "model_type": "llama"
+}

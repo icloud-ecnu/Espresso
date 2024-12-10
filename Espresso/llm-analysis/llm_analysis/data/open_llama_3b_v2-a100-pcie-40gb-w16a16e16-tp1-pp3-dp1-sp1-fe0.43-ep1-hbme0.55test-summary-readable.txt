@@ -1,0 +1,13 @@
+
+----------------------------------------------Summary-----------------------------------------------
+weight_memory_embedding: 195.31 MB
+weight_memory_layer: 234.39 MB
+optimizer_state_memory_per_layer: 1.37 GB
+gradient_memory_per_layer: 468.77 MB
+activation_memory_per_layer: 136.72 MB
+activation_memory_embedding_output_per_layer: 2.67 GB
+activation_memory_layernorm_per_layer: 0B
+latency_fwd_per_layer: 44.7 ms
+latency_fwd_input_embedding: 239.46 us
+latency_fwd_output_embedding_loss: 34.19 ms
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,7 @@
+模型加载之后，max allocated:7786991616 memory_allocated:3500412928 memory_reserved=7788822528
+实例化trainer之后，max allocated:31502505472 memory_allocated:31502505472 memory_reserved=31513903104
+rank = 4   Max memory allocated on GPU: 41.49 GB
+rank = 3   Max memory allocated on GPU: 35.09 GB
+rank = 1   Max memory allocated on GPU: 54.26 GB
+rank = 2   Max memory allocated on GPU: 41.94 GB
+rank = 0   Max memory allocated on GPU: 54.75 GB

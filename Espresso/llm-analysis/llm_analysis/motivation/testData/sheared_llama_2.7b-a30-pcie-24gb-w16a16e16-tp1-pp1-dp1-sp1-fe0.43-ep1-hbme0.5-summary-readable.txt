@@ -1,0 +1,27 @@
+
+----------------------------------------------Summary-----------------------------------------------
+batch_size_per_gpu: 4
+weight_memory_embedding: 156.25 MB
+weight_memory_last_layernorm: 5.0 KB
+weight_memory_layer: 150.01 MB
+optimizer_state_memory_embedding: 937.5 MB
+optimizer_state_memory_per_layer: 900.06 MB
+optimizer_state_memory_last_layernorm: 30.0 KB
+gradient_memory_embedding: 312.5 MB
+gradient_memory_per_layer: 300.02 MB
+gradient_memory_last_layernorm: 10.0 KB
+activation_memory_per_layer: 19.53 MB
+activation_memory_embedding_output_per_layer: 488.28 MB
+activation_memory_layernorm_per_layer: 0B
+embedding_memory: 3.85 GB
+normal_layer_memory: 13.38 GB
+total_memory: 23.77 GB
+memory_left: 232.93 MB
+latency_fwd_per_layer: 9.62 ms
+latency_fwd_input_embedding: 351.21 us
+latency_fwd_output_embedding_loss: 9.24 ms
+embedding_latency: 9.24 ms
+normal_layer_latency: 96.2 ms
+total_latency: 105.44 ms
+num_flops_total_per_micro_batch: 88.39 T
+----------------------------------------------------------------------------------------------------

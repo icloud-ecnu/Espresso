@@ -1,0 +1,2 @@
+模型加载之后，max allocated:4429506048 memory_allocated:4166313472 memory_reserved=4431282176
+实例化trainer之后，max allocated:18488503296 memory_allocated:18488503296 memory_reserved=18490589184

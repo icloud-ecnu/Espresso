@@ -1,0 +1,9 @@
+{
+    "name": "gpt",
+    "num_layers": 10,
+    "n_head": 16,
+    "hidden_dim": 512,
+    "vocab_size": 50257,
+    "max_seq_len": 1024,
+    "model_type": "gpt2"
+}

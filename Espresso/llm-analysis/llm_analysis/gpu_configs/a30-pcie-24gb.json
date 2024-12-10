@@ -1,0 +1,9 @@
+{
+    "name": "a30-pcie-24gb",
+    "mem_per_GPU_in_GB": 24,
+    "hbm_bandwidth_in_GB_per_sec": 933,
+    "intra_node_bandwidth_in_GB_per_sec": 32,
+    "intra_node_min_message_latency": 8e-06,
+    "peak_fp16_TFLOPS": 165,
+    "inter_node_bandwidth_in_GB_per_sec": 2.5
+}

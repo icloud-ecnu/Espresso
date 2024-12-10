@@ -1,0 +1,121 @@
+{
+  "a30-pcie-24gb":{
+    "flops_efficiency":0.55,
+    "hbm_memory_efficiency": 0.5,
+    "cost":4,
+    "mem_per_GPU_in_GB": 24,
+    "peak_fp16_TFLOPS": 160
+  },
+  "a6000-pcie4-48gb":{
+    "flops_efficiency":0.55,
+    "hbm_memory_efficiency": 0.5,
+    "cost":6,
+    "mem_per_GPU_in_GB": 48,
+    "peak_fp16_TFLOPS": 164.8
+  },
+  "a4000-pcie4-16gb":{
+    "flops_efficiency":0.55,
+    "hbm_memory_efficiency": 0.5,
+    "cost":2,
+    "mem_per_GPU_in_GB": 16,
+    "peak_fp16_TFLOPS": 76
+  },
+  "3090-pcie4-24gb":{
+    "flops_efficiency":0.55,
+    "hbm_memory_efficiency": 0.5,
+    "cost":2.5,
+    "mem_per_GPU_in_GB": 24,
+    "peak_fp16_TFLOPS": 142
+  },
+  "a2000-pcie4-12gb":{
+    "flops_efficiency":0.45,
+    "hbm_memory_efficiency": 0.5,
+    "cost":1,
+    "mem_per_GPU_in_GB": 12,
+    "peak_fp16_TFLOPS": 32
+  },
+  "a10g-pcie-24gb":{
+    "flops_efficiency":0.55,
+    "hbm_memory_efficiency": 0.5,
+    "cost":1.212,
+    "mem_per_GPU_in_GB": 24,
+    "peak_fp16_TFLOPS": 125
+  },
+  "v100-pcie-16gb":{
+    "flops_efficiency":0.55,
+    "hbm_memory_efficiency": 0.5,
+    "cost":3.06,
+    "mem_per_GPU_in_GB": 16,
+    "peak_fp16_TFLOPS": 112
+  },
+  "t4-pcie-16gb":{
+    "flops_efficiency":0.55,
+    "hbm_memory_efficiency": 0.5,
+    "cost":0.752,
+    "mem_per_GPU_in_GB": 16,
+    "peak_fp16_TFLOPS": 65
+  },
+  "p100-pcie-16gb":{
+    "flops_efficiency": 0.3,
+    "hbm_memory_efficiency": 0.5,
+    "cost":0.47,
+    "mem_per_GPU_in_GB": 16,
+    "peak_fp16_TFLOPS": 21.2
+  },
+  "4090-pcie-24gb": {
+    "flops_efficiency":0.55,
+    "hbm_memory_efficiency": 0.5,
+    "cost":4,
+    "mem_per_GPU_in_GB": 24,
+    "peak_fp16_TFLOPS": 330.4
+  },
+  "a100-sxm-80gb":{
+    "flops_efficiency":0.55,
+    "hbm_memory_efficiency": 0.5,
+    "cost":1.80,
+    "mem_per_GPU_in_GB": 80,
+    "peak_fp16_TFLOPS": 312
+  },
+  "a100-pcie-40gb": {
+    "flops_efficiency":0.55,
+    "hbm_memory_efficiency": 0.5,
+    "cost":1.20,
+    "mem_per_GPU_in_GB": 40,
+    "peak_fp16_TFLOPS": 312
+  },
+  "a100-pcie-80gb": {
+    "flops_efficiency":0.55,
+    "hbm_memory_efficiency": 0.5,
+    "cost":15,
+    "mem_per_GPU_in_GB": 80,
+    "peak_fp16_TFLOPS": 312
+  },
+  "h100-pcie-80gb":{
+    "flops_efficiency":0.55,
+    "hbm_memory_efficiency": 0.5,
+    "cost":2.87,
+    "mem_per_GPU_in_GB": 80,
+    "peak_fp16_TFLOPS": 756
+  },
+  "a40-pcie4-48gb":{
+    "flops_efficiency":0.55,
+    "hbm_memory_efficiency": 0.5,
+    "cost":0.55,
+    "mem_per_GPU_in_GB": 48,
+    "peak_fp16_TFLOPS": 149.7
+  },
+  "l40-pcie4-48gb":{
+    "flops_efficiency":0.55,
+    "hbm_memory_efficiency": 0.5,
+    "cost":1.121,
+    "mem_per_GPU_in_GB": 48,
+    "peak_fp16_TFLOPS": 181
+  },
+  "3080ti-pcie4-12gb":{
+    "flops_efficiency":0.55,
+    "hbm_memory_efficiency": 0.5,
+    "cost":2.25,
+    "mem_per_GPU_in_GB": 12,
+    "peak_fp16_TFLOPS": 136.4
+  }
+}

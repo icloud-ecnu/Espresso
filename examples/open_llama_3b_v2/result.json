@@ -1,0 +1,19 @@
+{
+    "model_name": "open_llama_3b_v2",
+    "gpus_permutation": [
+        "a6000-pcie4-48gb",
+        "a6000-pcie4-48gb",
+        "3090-pcie4-24gb"
+    ],
+    "tp_size": 1,
+    "pp_size": 3,
+    "dp_size": 1,
+    "money_cost": 0.2019491016738102,
+    "time_cost": 50.13908731211839,
+    "layer_distribution": [
+        11,
+        12,
+        3
+    ],
+    "success": true
+}

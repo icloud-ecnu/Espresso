@@ -1,0 +1,30 @@
+{
+  "a30-pcie-24gb":{
+    "flops_efficiency": 0.43,
+    "hbm_memory_efficiency": 0.5,
+    "cost":4,
+    "mem_per_GPU_in_GB": 24,
+    "peak_fp16_TFLOPS": 165
+  },
+  "a6000-pcie4-48gb":{
+    "flops_efficiency":0.47,
+    "hbm_memory_efficiency": 0.5,
+    "cost":6,
+    "mem_per_GPU_in_GB": 48,
+    "peak_fp16_TFLOPS": 154.8
+  },
+  "a4000-pcie4-16gb":{
+    "flops_efficiency":0.55,
+    "hbm_memory_efficiency": 0.5,
+    "cost":2,
+    "mem_per_GPU_in_GB": 16,
+    "peak_fp16_TFLOPS": 76
+  },
+  "3090-pcie4-24gb":{
+    "flops_efficiency":0.45,
+    "hbm_memory_efficiency": 0.5,
+    "cost":2.5,
+    "mem_per_GPU_in_GB": 24,
+    "peak_fp16_TFLOPS": 142
+  }
+}

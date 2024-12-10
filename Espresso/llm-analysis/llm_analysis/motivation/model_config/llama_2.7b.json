@@ -1,0 +1,14 @@
+{
+    "model_name":"llama_2.7b",
+    "gradient_accumulation_steps":4,
+    "seq_len":2000,
+    "model_layer":32,
+    "global_batch_size":32,
+    "dp_size":1,
+    "tp_size":1,
+    "num_layers": 32,
+    "n_head": 20,
+    "hidden_dim": 2560,
+    "vocab_size": 32000,
+    "max_seq_len": 4096
+}
